@@ -8,8 +8,11 @@ Here is the main categories:
  - Survey
  - Distribution
  - Deep learning
+ - Recsys
+ - Talks
  - etc
  
  Also, I have collected some useful links:
- - [LibRec](https://www.librec.net/)
- - [Surprise](http://surpriselib.com/)  A Python library for recommender system
+ - [LibRec](https://www.librec.net/) A java library for the state-of-the-art algorithms in recommedner sytem.
+ - [Surprise](http://surpriselib.com/)  A Python library for recommender system.
+ - [Deep Learning](https://github.com/daicoolb/Deep-Learning-for-Recommendation-Systems) Deep-Learning-for-Recommendation-Systems
