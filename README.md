@@ -23,11 +23,11 @@ In this session, I have collected some useful recommeder system engine:
  - [Ger](https://github.com/grahamjenson/ger)
  - [Crab](https://muricoca.github.io/crab/index.html)
 
-In this sessionm I have collected some useful recommender algrothim framework:
+In this session, I have collected some useful recommender algrothim framework:
  - [Surprise](https://github.com/NicolasHug/Surprise)
  - [LightFM](https://github.com/lyst/lightfm)
  - [SpotLight](https://github.com/maciejkula/spotlight)
  - [Python-Recsys](https://github.com/ocelma/python-recsys)
  - [LibRec](https://www.librec.net/) A java library for the state-of-the-art algorithms in recommedner sytem.
  - [SparkMovieLens](https://github.com/jadianes/spark-movie-lens)
- 
+ - [Elasticsearch](https://github.com/IBM/elasticsearch-spark-recommender)
