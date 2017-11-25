@@ -23,3 +23,4 @@ Here is the main categories:
  - [Spark Engine](https://github.com/GoogleCloudPlatform/spark-recommendation-engine)
  - [Spring Boost](https://github.com/aerospike/recommendation-engine-example)
  - [Ger](https://github.com/grahamjenson/ger)
+ - [Crab](https://muricoca.github.io/crab/index.html)
