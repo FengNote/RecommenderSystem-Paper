@@ -28,6 +28,6 @@ In this session, I have collected some useful recommender system algorithm frame
  - [LightFM](https://github.com/lyst/lightfm)
  - [SpotLight](https://github.com/maciejkula/spotlight)
  - [Python-Recsys](https://github.com/ocelma/python-recsys)
- - [LibRec](https://www.librec.net/) A java library for the state-of-the-art algorithms in recommedner sytem.
+ - [LibRec](https://www.librec.net/) A java library for the state-of-the-art algorithms in recommeder sytem.
  - [SparkMovieLens](https://github.com/jadianes/spark-movie-lens)
  - [Elasticsearch](https://github.com/IBM/elasticsearch-spark-recommender)
