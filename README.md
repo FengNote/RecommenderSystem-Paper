@@ -1,7 +1,7 @@
 # Tips
 For the convenience of reading, I collect some basic and important papers about recommender system.
 
-Here is the main categories:
+**Here is the main conferences within recommender system and some categories which I think is interesting**:
  - [KDD](http://www.kdd.org/) the community for data mining, data science and analytics
  - [ICDM](http://www.cs.uvm.edu/~icdm/) draws researchers and application developers from a wide range of data mining related areas such as statistics, machine learning, pattern recognition, databases and data warehousing, data visualization, knowledge-based systems, and high performance computing. 
  - [AAAI](https://www.aaai.org/)  promotes research in, and responsible use of, artificial intelligence
