@@ -10,7 +10,7 @@ For the convenience of reading, I collect some basic and important papers about 
  - [ICML](https://icml.cc/) is the leading international machine learning conference and is supported by the International Machine Learning Society (IMLS)
  - [CIKM](http://www.cikmconference.org/) provides an international forum for presentation and discussion of research on information and knowledge management, as well as recent advances on data and knowledge bases
  - [SIGIR](http://sigir.org/)  is the Association for Computing Machinery’s Special Interest Group on Information Retrieval. Since 1963, we have promoted research, development and education in the area of search and other information access technologies.
- - [Recsys](https://recsys.acm.org/) the most famous conference in recommender system. 
+ - [Recsys](https://recsys.acm.org/) is the most famous conference in recommender system. 
  - Cold Start
  - Survey
  - Distribution
