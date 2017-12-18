@@ -5,6 +5,9 @@ Here is the main categories:
  - KDD
  - ICDM
  - AAAI
+ - WWW
+ - NIPS
+ - ICML
  - CIKM
  - SIGIR
  - Recsys
@@ -15,7 +18,7 @@ Here is the main categories:
  - Talks
  - etc
  
-In this session, I have collected some useful recommeder system engine:
+*In this session, I have collected some useful recommeder system engine*:
  - [Mosaic](https://github.com/guymorita/Mosaic-Films---Recommendation-Engine-Demo) Mosaic Films is a demo of the recommendationRaccoon engine built on top of Node.js.
  - [Contenct Engine](https://github.com/groveco/content-engine) This is a production-ready, but very simple, content-based recommendation engine that computes similar items based on text descriptions
  - [Spark Engine](https://github.com/GoogleCloudPlatform/spark-recommendation-engine) This tutorial shows how to run the code explained in the solution paper Recommendation Engine on Google Cloud Platform. 
@@ -23,7 +26,7 @@ In this session, I have collected some useful recommeder system engine:
  - [Ger](https://github.com/grahamjenson/ger) Providing good recommendations can get greater user engagement and provide an opportunity to add value that would otherwise not exist
  - [Crab](https://muricoca.github.io/crab/index.html) Crab as known as scikits.recommender is a Python framework for building recommender engines integrated with the world of scientific Python packages (numpy, scipy, matplotlib).
 
-In this session, I have collected some useful recommender system algorithm framework:
+*In this session, I have collected some useful recommender system algorithm framework*:
  - [Surprise](https://github.com/NicolasHug/Surprise) Surprise is a Python scikit building and analyzing recommender systems.
  - [LightFM](https://github.com/lyst/lightfm) LightFM is a Python implementation of a number of popular recommendation algorithms for both implicit and explicit feedback, including efficient implementation of BPR and WARP ranking losses
  - [SpotLight](https://github.com/maciejkula/spotlight) Spotlight uses PyTorch to build both deep and shallow recommender models.
