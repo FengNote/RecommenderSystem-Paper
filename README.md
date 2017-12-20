@@ -25,34 +25,50 @@ For the convenience of reading, I collect some basic and important papers about 
  - Survey
  - Distribution
  - Deep learning
-   - **2017 ACML** [PHD: A Probabilistic Model of Hybrid Deep Collaborative Filtering for Recommender Systems ](http://www.acml-conf.org/2017/conference/accepted-papers/)
-     - Code Link: https://github.com/daicoolb/PHDMF
-   - **2017 Recsys** [Boosting Recommender Systems with Deep Learning ](https://dl.acm.org/citation.cfm?doid=3109859.3109926)
-   - **2017 Recsys**[Deep Learning for Recommender Systems ](https://dl.acm.org/citation.cfm?doid=3109859.3109933)
-   - **2017 CORR** [Representation Learning and Pairwise Ranking for Implicit and Explicit Feedback in Recommendation Systems by Mikhail Trofimov ](https://arxiv.org/abs/1705.00105)
-   - **2017 IJCAI** [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction. ](https://arxiv.org/abs/1703.04247) 
+   - **2017 ACML** 
+     - [PHD: A Probabilistic Model of Hybrid Deep Collaborative Filtering for Recommender Systems ](http://www.acml-conf.org/2017/conference/accepted-papers/)
+       - Code Link: https://github.com/daicoolb/PHDMF
+   - **2017 Recsys**   
+     - [Boosting Recommender Systems with Deep Learning ](https://dl.acm.org/citation.cfm?doid=3109859.3109926)
+     - [Deep Learning for Recommender Systems ](https://dl.acm.org/citation.cfm?doid=3109859.3109933)
+     - [TransNets: Learning to Transform for Recommendation  by Rose Catherine ](https://arxiv.org/abs/1704.02298) 
+   - **2017 CORR** 
+     - [Representation Learning and Pairwise Ranking for Implicit and Explicit Feedback in Recommendation Systems by Mikhail Trofimov ](https://arxiv.org/abs/1705.00105)
+   - **2017 IJCAI** 
+     - [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction. ](https://arxiv.org/abs/1703.04247) 
      - Code Link: https://github.com/Leavingseason/OpenLearning4DeepRecsys
-   - **2017 WWW** [Locally Connected Deep Learning Framework for Industrial-scale Recommender Systems ](https://dl.acm.org/citation.cfm?doid=3041021.3054227)
-   - **2017 Recsys** [TransNets: Learning to Transform for Recommendation  by Rose Catherine ](https://arxiv.org/abs/1704.02298) 
-   - **2017 WSDM** [Joint deep modeling of users and items using reviews for recommendation by L Zheng ](https://arxiv.org/pdf/1701.04783)
-   - **2016 Recsys** [Convolutional Matrix Factorization for Document Context-Aware Recommendation by Donghyun Kim, Chanyoung Park, Jinoh Oh, Seungyong Lee, Hwanjo Yu](http://dm.postech.ac.kr/~cartopy/ConvMF/)
-     - Code Link: https://github.com/cartopy/ConvMF
-   - **2016 JMLR** [A Neural Autoregressive Approach to Collaborative Filtering by Yin Zheng et all ](http://proceedings.mlr.press/v48/zheng16.pdf)
-   - **2016 ACML** [Collaborative Recurrent Neural Networks for Dynamic Recommender Systems by Young-Jun Ko. ](http://proceedings.mlr.press/v63/ko101.pdf)
-   - **2016 AAAI** [Hybrid Recommender System based on Autoencoders by Florian Strub ](https://arxiv.org/pdf/1606.07659.pdf)
-   - **2016 Recsys** [Ask the GRU: Multi-task Learning for Deep Text Recommendations by T Bansal ](https://arxiv.org/pdf/1609.02116.pdf)
+   - **2017 WWW** 
+     - [Locally Connected Deep Learning Framework for Industrial-scale Recommender Systems ](https://dl.acm.org/citation.cfm?doid=3041021.3054227)
+   - **2017 WSDM** 
+     - [Joint deep modeling of users and items using reviews for recommendation by L Zheng ](https://arxiv.org/pdf/1701.04783)
+   - **2016 Recsys** 
+     - [Convolutional Matrix Factorization for Document Context-Aware Recommendation by Donghyun Kim, Chanyoung Park, Jinoh Oh, Seungyong Lee, Hwanjo Yu](http://dm.postech.ac.kr/~cartopy/ConvMF/)
+       - Code Link: https://github.com/cartopy/ConvMF
+     - [Ask the GRU: Multi-task Learning for Deep Text Recommendations by T Bansal ](https://arxiv.org/pdf/1609.02116.pdf)
+     - [Deep Neural Networks for YouTube Recommendations by Paul Covington ](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)
+     - [Meta-Prod2Vec - Product Embeddings Using Side-Information for Recommendation by Flavian Vasile ](https://arxiv.org/pdf/1607.07326.pdf)
+   - **2016 JMLR** 
+     - [A Neural Autoregressive Approach to Collaborative Filtering by Yin Zheng et all ](http://proceedings.mlr.press/v48/zheng16.pdf)
+   - **2016 ACML** 
+     - [Collaborative Recurrent Neural Networks for Dynamic Recommender Systems by Young-Jun Ko. ](http://proceedings.mlr.press/v63/ko101.pdf)
+   - **2016 AAAI** 
+     - [Hybrid Recommender System based on Autoencoders by Florian Strub ](https://arxiv.org/pdf/1606.07659.pdf) 
    - **2016 WSDM** [Collaborative Denoising Auto-Encoders for Top-N Recommender Systems by Y Wu ](http://alicezheng.org/papers/wsdm16-cdae.pdf)
-   - **2016 Recsys** [Deep Neural Networks for YouTube Recommendations by Paul Covington ](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)
    - **2016 DLRS** [Wide & Deep Learning for Recommender Systems by Heng-Tze Cheng ](https://arxiv.org/abs/1606.07792)
    - **2016 Personal Note** [A Survey and Critique of Deep Learning on Recommender Systems by Lei Zheng ](http://bdsc.lab.uic.edu/docs/survey-critique-deep.pdf)
-   - **2016 Recsys** [Meta-Prod2Vec - Product Embeddings Using Side-Information for Recommendation by Flavian Vasile ](https://arxiv.org/pdf/1607.07326.pdf)
-   - **2016 CORR** [Collaborative Filtering with Recurrent Neural Networks by Robin Devooght ](https://arxiv.org/pdf/1608.07400.pdf)
-   - **2016 CORR** [Hybrid Collaborative Filtering with Neural Networks by Strub](https://pdfs.semanticscholar.org/fcbd/179590c30127cafbd00fd7087b47818406bc.pdf)
-   - **2015 Recsys** [Learning Distributed Representations from Reviews for Collaborative Filtering by Amjad Almahairi ](http://dl.acm.org/citation.cfm?id=2800192)
-   - **2015 WWW** [A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems by Ali Mamdouh Elkahky ](http://sonyis.me/paperpdf/frp1159-songA-www-2015.pdf)
-   - **2015 CIKM** [Deep collaborative filtering via marginalized denoising auto-encoder by S Li ](https://pdfs.semanticscholar.org/ff29/2f00055d8221c42d4831679db9d3872b6fbd.pdf)
-   - **2013 NIPS** [Deep content-based music recommendation by Aaron van den Oord ](https://papers.nips.cc/paper/5004-deep-content-based-music-recommendation.pdf)
-   - **2007 ICML** [Restricted Boltzmann Machines for Collaborative Filtering by Ruslan Salakhutdinov](http://www.machinelearning.org/proceedings/icml2007/papers/407.pdf)
+   - **2016 CORR** 
+     - [Collaborative Filtering with Recurrent Neural Networks by Robin Devooght ](https://arxiv.org/pdf/1608.07400.pdf)
+     - [Hybrid Collaborative Filtering with Neural Networks by Strub](https://pdfs.semanticscholar.org/fcbd/179590c30127cafbd00fd7087b47818406bc.pdf)
+   - **2015 Recsys** 
+     - [Learning Distributed Representations from Reviews for Collaborative Filtering by Amjad Almahairi ](http://dl.acm.org/citation.cfm?id=2800192)
+   - **2015 WWW** 
+     - [A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems by Ali Mamdouh Elkahky ](http://sonyis.me/paperpdf/frp1159-songA-www-2015.pdf)
+   - **2015 CIKM** 
+     - [Deep collaborative filtering via marginalized denoising auto-encoder by S Li ](https://pdfs.semanticscholar.org/ff29/2f00055d8221c42d4831679db9d3872b6fbd.pdf)
+   - **2013 NIPS** 
+     - [Deep content-based music recommendation by Aaron van den Oord ](https://papers.nips.cc/paper/5004-deep-content-based-music-recommendation.pdf)
+   - **2007 ICML** 
+     - [Restricted Boltzmann Machines for Collaborative Filtering by Ruslan Salakhutdinov](http://www.machinelearning.org/proceedings/icml2007/papers/407.pdf)
  - Talks
  - etc
  
