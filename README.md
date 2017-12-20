@@ -12,6 +12,16 @@ For the convenience of reading, I collect some basic and important papers about 
  - [SIGIR](http://sigir.org/)  is the Association for Computing Machinery’s Special Interest Group on Information Retrieval. Since 1963, we have promoted research, development and education in the area of search and other information access technologies.
  - [Recsys](https://recsys.acm.org/) is the most famous conference in recommender system. 
  - Cold Start
+   - [RaPare: A Generic Strategy for Cold-Start Rating Prediction Problem 2017 TKDE](https://dl.acm.org/citation.cfm?doid=3108148)
+   - [Local Representative-Based Matrix Factorization for Cold-Start Recommendation 2017 IS](https://dl.acm.org/citation.cfm?doid=3108148)
+   - [Low-Rank Linear Cold-Start Recommendation from Social Data 2017 AAAI](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14828)
+   - [Handling Cold-Start Problem in Review Spam Detection by Jointly Embedding Texts and Behaviors 2017 ACL](http://aclweb.org/anthology/P17-1034)
+   - [Recommendation vs Sentiment Analysis: A Text-Driven Latent Factor Model for Rating Prediction with Cold-Start Awareness 2017 IJCAI](https://www.ijcai.org/proceedings/2017/382)
+   - [Two Birds One Stone: On both Cold-Start and Long-Tail Recommendation 2017 Multimedia](https://dl.acm.org/citation.cfm?doid=3123266.3123316)
+   - [A Meta-Learning Perspective on Cold-Start Recommendations for Items 2017 NIPS](http://papers.nips.cc/paper/7266-a-meta-learning-perspective-on-cold-start-recommendations-for-items)
+   - [DropoutNet: Addressing Cold Start in Recommender Systems 2017 NIPS](http://papers.nips.cc/paper/7081-dropoutnet-addressing-cold-start-in-recommender-systems)
+   - [Expediting Exploration by Attribute-to-Feature Mapping for Cold-Start Recommendations 2017 Recsys](https://dl.acm.org/citation.cfm?doid=3109859.3109880)
+   - [On Learning Mixed Community-specific Similarity Metrics for Cold-start Link Prediction 2017 WWW](https://dl.acm.org/citation.cfm?doid=3041021.3054269)
  - Survey
  - Distribution
  - Deep learning
