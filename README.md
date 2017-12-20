@@ -60,10 +60,12 @@ For the convenience of reading, I collect some basic and important papers about 
      - [Dynamic Attention Deep Model for Article Recommendation by Learning Human Editors Demonstration](http://202.120.0.1/cache/6/03/wnzhang.net/3ac0c97001289a82d146e2d46405fc96/dadm-kdd.pdf)
      - [A Hybrid Framework for Text Modeling with Convolutional RNN](https://dl.acm.org/citation.cfm?id=3098140)
      - [Deep Embedding Forest: Forest-based Serving with Deep Embedding Features](https://dl.acm.org/citation.cfm?id=3098059&CFID=1018338121&CFTOKEN=87222562)
+     - [Embedding-based News Recommendation for Millions of Users](http://delivery.acm.org/10.1145/3100000/3098108/p1933-okura.pdf?ip=202.120.19.118&id=3098108&acc=OPENTOC&key=BF85BBA5741FDC6E%2E17676C47DFB149BF%2E4D4702B0C3E38B35%2E054E54E275136550&CFID=1018338121&CFTOKEN=87222562&__acm__=1513765592_2c508b428144fb4f0a1e885b3d20b9c8)
    - **2017 SIGIR**
      - [Deep Learning for Extreme Multi-label Text Classification](https://dl.acm.org/citation.cfm?id=3080834)
      - [Neural Factorization Machines for Sparse Predictive Analytics](https://dl.acm.org/citation.cfm?id=3080777&CFID=1018338121&CFTOKEN=87222562)
      - [Neural Rating Regression with Abstractive Tips Generation for Recommendation](https://dl.acm.org/citation.cfm?id=3080822)
+     - [Attentive Collaborative Filtering: Multimedia Recommendation with Item- and Component-Level Attention](https://www.comp.nus.edu.sg/~xiangnan/papers/sigir17-AttentiveCF.pdf)
    - **2016 Recsys** 
      - [Convolutional Matrix Factorization for Document Context-Aware Recommendation by Donghyun Kim, Chanyoung Park, Jinoh Oh, Seungyong Lee, Hwanjo Yu](http://dm.postech.ac.kr/~cartopy/ConvMF/)
        - Code Link: https://github.com/cartopy/ConvMF
