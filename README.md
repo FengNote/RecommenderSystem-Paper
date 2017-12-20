@@ -22,7 +22,8 @@ For the convenience of reading, I collect some basic and important papers about 
      - [Handling Cold-Start Problem in Review Spam Detection by Jointly Embedding Texts and Behaviors](http://aclweb.org/anthology/P17-1034)
    - **2017 IJCAI**
      - [Recommendation vs Sentiment Analysis: A Text-Driven Latent Factor Model for Rating Prediction with Cold-Start Awareness](https://www.ijcai.org/proceedings/2017/382)
-   - [Two Birds One Stone: On both Cold-Start and Long-Tail Recommendation 2017 Multimedia](https://dl.acm.org/citation.cfm?doid=3123266.3123316)
+   - **2017 Multimedia**
+     - [Two Birds One Stone: On both Cold-Start and Long-Tail Recommendation ](https://dl.acm.org/citation.cfm?doid=3123266.3123316)
    - **2017 NIPS**
      - [A Meta-Learning Perspective on Cold-Start Recommendations for Items ](http://papers.nips.cc/paper/7266-a-meta-learning-perspective-on-cold-start-recommendations-for-items)
      - [DropoutNet: Addressing Cold Start in Recommender Systems ](http://papers.nips.cc/paper/7081-dropoutnet-addressing-cold-start-in-recommender-systems)
