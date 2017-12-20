@@ -18,6 +18,7 @@ For the convenience of reading, I collect some basic and important papers about 
      - [Local Representative-Based Matrix Factorization for Cold-Start Recommendation ](https://dl.acm.org/citation.cfm?doid=3108148)
    - **2017 AAAI**
      - [Low-Rank Linear Cold-Start Recommendation from Social Data](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14828)
+     - [A Hybrid Collaborative Filtering Model with Deep Structure for Recommender Systems](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14676)
    - **2017 ACL**
      - [Handling Cold-Start Problem in Review Spam Detection by Jointly Embedding Texts and Behaviors](http://aclweb.org/anthology/P17-1034)
    - **2017 IJCAI**
@@ -46,10 +47,23 @@ For the convenience of reading, I collect some basic and important papers about 
    - **2017 IJCAI** 
      - [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction. ](https://arxiv.org/abs/1703.04247) 
        - Code Link: https://github.com/Leavingseason/OpenLearning4DeepRecsys
+     - [Deep Matrix Factorization Models for Recommender Systems](http://static.ijcai.org/proceedings-2017/0447.pdf)
+     - [Hashtag Recommendation for Multimodal Microblog Using Co-Attention Network](https://www.ijcai.org/proceedings/2017/478)
+     - [Cross-Domain Recommendation: An Embedding and Mapping Approach](https://www.ijcai.org/proceedings/2017/0343.pdf)
+     - [Tag-Aware Personalized Recommendation Using a Hybrid Deep Model](https://www.ijcai.org/proceedings/2017/0446.pdf)
    - **2017 WWW** 
      - [Locally Connected Deep Learning Framework for Industrial-scale Recommender Systems ](https://dl.acm.org/citation.cfm?doid=3041021.3054227)
    - **2017 WSDM** 
      - [Joint deep modeling of users and items using reviews for recommendation by L Zheng ](https://arxiv.org/pdf/1701.04783)
+   - **2017 KDD**
+     - [Collaborative Variational Autoencoder for Recommender Systems](https://dl.acm.org/citation.cfm?doid=3097983.3098077)
+     - [Dynamic Attention Deep Model for Article Recommendation by Learning Human Editors Demonstration](http://202.120.0.1/cache/6/03/wnzhang.net/3ac0c97001289a82d146e2d46405fc96/dadm-kdd.pdf)
+     - [A Hybrid Framework for Text Modeling with Convolutional RNN](https://dl.acm.org/citation.cfm?id=3098140)
+     - [Deep Embedding Forest: Forest-based Serving with Deep Embedding Features](https://dl.acm.org/citation.cfm?id=3098059&CFID=1018338121&CFTOKEN=87222562)
+   - **2017 SIGIR**
+     - [Deep Learning for Extreme Multi-label Text Classification](https://dl.acm.org/citation.cfm?id=3080834)
+     - [Neural Factorization Machines for Sparse Predictive Analytics](https://dl.acm.org/citation.cfm?id=3080777&CFID=1018338121&CFTOKEN=87222562)
+     - [Neural Rating Regression with Abstractive Tips Generation for Recommendation](https://dl.acm.org/citation.cfm?id=3080822)
    - **2016 Recsys** 
      - [Convolutional Matrix Factorization for Document Context-Aware Recommendation by Donghyun Kim, Chanyoung Park, Jinoh Oh, Seungyong Lee, Hwanjo Yu](http://dm.postech.ac.kr/~cartopy/ConvMF/)
        - Code Link: https://github.com/cartopy/ConvMF
