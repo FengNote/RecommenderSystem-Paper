@@ -53,6 +53,8 @@ For the convenience of reading, I collect some basic and important papers about 
      - [Tag-Aware Personalized Recommendation Using a Hybrid Deep Model](https://www.ijcai.org/proceedings/2017/0446.pdf)
    - **2017 WWW** 
      - [Locally Connected Deep Learning Framework for Industrial-scale Recommender Systems ](https://dl.acm.org/citation.cfm?doid=3041021.3054227)
+     - [What Your Images Reveal: Exploiting Visual Contents for Point-of-Interest Recommendation](http://www.public.asu.edu/~swang187/publications/VPOI.pdf)
+     - [Neural Collaborative Filtering](https://www.comp.nus.edu.sg/~xiangnan/papers/ncf.pdf)
    - **2017 WSDM** 
      - [Joint deep modeling of users and items using reviews for recommendation by L Zheng ](https://arxiv.org/pdf/1701.04783)
    - **2017 KDD**
