@@ -25,6 +25,8 @@ For the convenience of reading, I collect some basic and important papers about 
  - Survey
  - Distribution
  - Deep learning
+   - [PHD: A Probabilistic Model of Hybrid Deep Collaborative Filtering for Recommender Systems](http://www.acml-conf.org/2017/conference/accepted-papers/)
+     - Code Linke: https://github.com/daicoolb/PHDMF
    - [Boosting Recommender Systems with Deep Learning 2017 Recsys](https://dl.acm.org/citation.cfm?doid=3109859.3109926)
    - [Deep Learning for Recommender Systems 2017 Recsys](https://dl.acm.org/citation.cfm?doid=3109859.3109933)
    - [Locally Connected Deep Learning Framework for Industrial-scale Recommender Systems 2017 WWW](https://dl.acm.org/citation.cfm?doid=3041021.3054227)
