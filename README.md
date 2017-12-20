@@ -28,7 +28,8 @@ For the convenience of reading, I collect some basic and important papers about 
    - [Boosting Recommender Systems with Deep Learning 2017 Recsys](https://dl.acm.org/citation.cfm?doid=3109859.3109926)
    - [Deep Learning for Recommender Systems 2017 Recsys](https://dl.acm.org/citation.cfm?doid=3109859.3109933)
    - [Locally Connected Deep Learning Framework for Industrial-scale Recommender Systems 2017 WWW](https://dl.acm.org/citation.cfm?doid=3041021.3054227)
-   - [Convolutional Matrix Factorization for Document Context-Aware Recommendation by Donghyun Kim, Chanyoung Park, Jinoh Oh, Seungyong Lee, Hwanjo Yu, RecSys 2016](http://dm.postech.ac.kr/~cartopy/ConvMF/) Code: https://github.com/cartopy/ConvMF
+   - [Convolutional Matrix Factorization for Document Context-Aware Recommendation by Donghyun Kim, Chanyoung Park, Jinoh Oh, Seungyong Lee, Hwanjo Yu, RecSys 2016](http://dm.postech.ac.kr/~cartopy/ConvMF/)
+     - Code Link: https://github.com/cartopy/ConvMF
    - [A Neural Autoregressive Approach to Collaborative Filtering by Yin Zheng et all](http://proceedings.mlr.press/v48/zheng16.pdf)
    - [Collaborative Recurrent Neural Networks for Dynamic Recommender Systems by Young-Jun Ko. ACML 2016](http://proceedings.mlr.press/v63/ko101.pdf)
    - [Hybrid Recommender System based on Autoencoders by Florian Strub . 2016](https://arxiv.org/pdf/1606.07659.pdf)
@@ -54,7 +55,7 @@ For the convenience of reading, I collect some basic and important papers about 
    - [Meta-Prod2Vec - Product Embeddings Using Side-Information for Recommendation by Flavian Vasile](https://arxiv.org/pdf/1607.07326.pdf)
    - [Representation Learning and Pairwise Ranking for Implicit and Explicit Feedback in Recommendation Systems by Mikhail Trofimov](https://arxiv.org/abs/1705.00105)
    - [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction. IJCAI2017](https://arxiv.org/abs/1703.04247) 
-     - Code (provided by readers): https://github.com/Leavingseason/OpenLearning4DeepRecsys
+     - Code Link: https://github.com/Leavingseason/OpenLearning4DeepRecsys
    - [Collaborative Filtering with Recurrent Neural Networks by Robin Devooght](https://arxiv.org/pdf/1608.07400.pdf)
  - Talks
  - etc
