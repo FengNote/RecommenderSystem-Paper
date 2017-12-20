@@ -39,7 +39,7 @@ For the convenience of reading, I collect some basic and important papers about 
    - [TransNets: Learning to Transform for Recommendation  by Rose Catherine](https://arxiv.org/abs/1704.02298) 
    - [Learning Distributed Representations from Reviews for Collaborative Filtering by  	Amjad Almahairi](http://dl.acm.org/citation.cfm?id=2800192)
    - [Ask the GRU: Multi-task Learning for Deep Text Recommendations by T Bansal](https://arxiv.org/pdf/1609.02116.pdf)
-   - [A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems by Ali Mamdouh Elkahky] (http://sonyis.me/paperpdf/frp1159-songA-www-2015.pdf)
+   - [A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems by Ali Mamdouh Elkahky](http://sonyis.me/paperpdf/frp1159-songA-www-2015.pdf)
    - [Deep collaborative filtering via marginalized denoising auto-encoder by S Li](https://pdfs.semanticscholar.org/ff29/2f00055d8221c42d4831679db9d3872b6fbd.pdf)
    - [Joint deep modeling of users and items using reviews for recommendation by L Zheng](https://arxiv.org/pdf/1701.04783)
    - [Hybrid Collaborative Filtering with Neural Networks by Strub](https://pdfs.semanticscholar.org/fcbd/179590c30127cafbd00fd7087b47818406bc.pdf)
@@ -53,7 +53,8 @@ For the convenience of reading, I collect some basic and important papers about 
    - [Restricted Boltzmann Machines for Collaborative Filtering by Ruslan Salakhutdinov](http://www.machinelearning.org/proceedings/icml2007/papers/407.pdf)
    - [Meta-Prod2Vec - Product Embeddings Using Side-Information for Recommendation by Flavian Vasile](https://arxiv.org/pdf/1607.07326.pdf)
    - [Representation Learning and Pairwise Ranking for Implicit and Explicit Feedback in Recommendation Systems by Mikhail Trofimov](https://arxiv.org/abs/1705.00105)
-   - [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction. IJCAI2017](https://arxiv.org/abs/1703.04247) code (provided by readers): https://github.com/Leavingseason/OpenLearning4DeepRecsys
+   - [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction. IJCAI2017](https://arxiv.org/abs/1703.04247) 
+     - Code (provided by readers): https://github.com/Leavingseason/OpenLearning4DeepRecsys
    - [Collaborative Filtering with Recurrent Neural Networks by Robin Devooght](https://arxiv.org/pdf/1608.07400.pdf)
  - Talks
  - etc
