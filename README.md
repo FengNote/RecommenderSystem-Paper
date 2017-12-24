@@ -1,4 +1,7 @@
-# Tips
+## Papers, tools , and framewroks that used in Recommender System
+
+[![](https://jaywcjlove.github.io/sb/ico/awesome.svg)](#) [![](https://jaywcjlove.github.io/sb/license/mit.svg)](#)
+
 For the convenience of reading, I collect some basic and important papers about recommender system.
 
 **Here is the main conferences within recommender system and some categories which I think is interesting**:
@@ -36,7 +39,7 @@ For the convenience of reading, I collect some basic and important papers about 
  - Distribution
  - Deep learning
    - **2017 ACML** 
-     - [PHD: A Probabilistic Model of Hybrid Deep Collaborative Filtering for Recommender Systems ](http://www.acml-conf.org/2017/conference/accepted-papers/)
+     - [PHD: A Probabilistic Model of Hybrid Deep Collaborative Filtering for Recommender Systems ](http://proceedings.mlr.press/v77/liu17a/liu17a.pdf)
        - Code Link: https://github.com/daicoolb/PHDMF
    - **2017 Recsys**   
      - [Boosting Recommender Systems with Deep Learning ](https://dl.acm.org/citation.cfm?doid=3109859.3109926)
