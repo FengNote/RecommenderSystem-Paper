@@ -38,6 +38,9 @@ For the convenience of reading, I collect some basic and important papers about 
  - Survey
  - Distribution
  - Deep learning
+   - **2018 WWW**
+     - [Neural Attentional Rating Regression with Review-level Explanations]
+     - Code Link:https://github.com/chenchongthu/DeepCoNN
    - **2017 ACML** 
      - [PHD: A Probabilistic Model of Hybrid Deep Collaborative Filtering for Recommender Systems ](http://proceedings.mlr.press/v77/liu17a/liu17a.pdf)
        - Code Link: https://github.com/daicoolb/PHDMF
